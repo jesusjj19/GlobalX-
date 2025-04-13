@@ -1,0 +1,2 @@
+# GlobalX-
+Gerente de ia
